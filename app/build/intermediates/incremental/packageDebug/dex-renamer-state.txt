@@ -1,0 +1,7 @@
+#Wed Feb 21 15:45:29 IST 2018
+base.0=F\:\\GANESH\\Studio_Project\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fcacf28e1f055bc1bb923672dccc32987b029f6d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\GANESH\\Studio_Project\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_53172f84eb4b0e0b91744810d439b76026a21e33\\classes.dex
+base.1=F\:\\GANESH\\Studio_Project\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_53172f84eb4b0e0b91744810d439b76026a21e33
+file.0=F\:\\GANESH\\Studio_Project\\ocr-reader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fcacf28e1f055bc1bb923672dccc32987b029f6d\\classes.dex

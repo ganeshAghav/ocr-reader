@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\5317b53dc9b7358dcba21efff4b3d044\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\2617d27972e0a82ac8e94a0a51f1e56e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\71e87e615261e4777c545b936ee3bbaa\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\6287846ff502d4d090e08ec925b83c44\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\3c1cac3999368333f89e046810c4e5b6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\3b0271cd11a397637a8b76cfb490efc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\77e8dd1806b5b45f3323dee2bbe08875\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\92931c458c6989c2e448ea4303870096\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\a4e443c4004adfd7c325f8d8b9465ed0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\7705890d55ff381e5b7d4286044d09bb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c319d9e92db918b949e7a9bea2df7f93\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7294d49bae38cb8431420e35efd9fb33\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\c005363ecd70acbf42ca9703653a59e7\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\5317b53dc9b7358dcba21efff4b3d044\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\5317b53dc9b7358dcba21efff4b3d044\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\2617d27972e0a82ac8e94a0a51f1e56e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\2617d27972e0a82ac8e94a0a51f1e56e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\71e87e615261e4777c545b936ee3bbaa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\71e87e615261e4777c545b936ee3bbaa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\6287846ff502d4d090e08ec925b83c44\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\6287846ff502d4d090e08ec925b83c44\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\3c1cac3999368333f89e046810c4e5b6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\3c1cac3999368333f89e046810c4e5b6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\77e8dd1806b5b45f3323dee2bbe08875\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\77e8dd1806b5b45f3323dee2bbe08875\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\92931c458c6989c2e448ea4303870096\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\92931c458c6989c2e448ea4303870096\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\a4e443c4004adfd7c325f8d8b9465ed0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\a4e443c4004adfd7c325f8d8b9465ed0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\7705890d55ff381e5b7d4286044d09bb\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\7705890d55ff381e5b7d4286044d09bb\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c319d9e92db918b949e7a9bea2df7f93\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c319d9e92db918b949e7a9bea2df7f93\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7294d49bae38cb8431420e35efd9fb33\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7294d49bae38cb8431420e35efd9fb33\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\c005363ecd70acbf42ca9703653a59e7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\c005363ecd70acbf42ca9703653a59e7\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:15:9-37
+	android:label
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:14:9-40
+	android:hardwareAccelerated
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:12:9-43
+	android:fullBackupContent
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:11:9-42
+	android:icon
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:13:9-38
+	android:allowBackup
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:16:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:17:9-19:35
+	android:value
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:19:13-32
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:18:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:22:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:31:9-32:41
+	android:label
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:32:13-38
+	android:name
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml:31:19-100
+uses-sdk
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\5317b53dc9b7358dcba21efff4b3d044\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\5317b53dc9b7358dcba21efff4b3d044\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\2617d27972e0a82ac8e94a0a51f1e56e\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\2617d27972e0a82ac8e94a0a51f1e56e\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\71e87e615261e4777c545b936ee3bbaa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\71e87e615261e4777c545b936ee3bbaa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\6287846ff502d4d090e08ec925b83c44\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\6287846ff502d4d090e08ec925b83c44\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\3c1cac3999368333f89e046810c4e5b6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.0.aar\3c1cac3999368333f89e046810c4e5b6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\3b0271cd11a397637a8b76cfb490efc7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.0.aar\3b0271cd11a397637a8b76cfb490efc7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\77e8dd1806b5b45f3323dee2bbe08875\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.0.aar\77e8dd1806b5b45f3323dee2bbe08875\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\92931c458c6989c2e448ea4303870096\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.0.aar\92931c458c6989c2e448ea4303870096\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\a4e443c4004adfd7c325f8d8b9465ed0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.0.aar\a4e443c4004adfd7c325f8d8b9465ed0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\7705890d55ff381e5b7d4286044d09bb\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.0.aar\7705890d55ff381e5b7d4286044d09bb\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c319d9e92db918b949e7a9bea2df7f93\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.0.aar\c319d9e92db918b949e7a9bea2df7f93\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7294d49bae38cb8431420e35efd9fb33\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.0.aar\7294d49bae38cb8431420e35efd9fb33\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\c005363ecd70acbf42ca9703653a59e7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.0.aar\c005363ecd70acbf42ca9703653a59e7\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.0.aar\6287846ff502d4d090e08ec925b83c44\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\GANESH\Project Backup\Android\Programs\New\ocr-reader\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\5dce1ac3b25982de8e503df11eb7365b\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\e051227c0e1dcd0e47227f70e9502b67\AndroidManifest.xml:22:13-58

@@ -1,0 +1,4 @@
+#Fri Jun 29 16:12:00 IST 2018
+base.0=F\:\\GANESH\\Project Backup\\Android\\Programs\\New\\ocr-reader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
